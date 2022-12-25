@@ -56,12 +56,14 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Front-end Developer</h3>
+      <h3 className="home__subtitle">Front-End Developer</h3>
       <p className="home__description">
-        I am a web/mobile developer.My objective is simply to be the best
-        web/mobile developer that I can be and to contribute to the technology
-        industry all that I know and can do.You can also check my GitHub
-        repository.
+        I am a web developer with a vast array knowledge in many different front
+        end and back end languages, responsive frameworks, databases and best
+        code practices.My objective is simply to be the best web developer that
+        I can be and to contribute to the technology industry all that I know
+        and can do. I also have a discipline due to the previous job. You can
+        also check my GitHub repository
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

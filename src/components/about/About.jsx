@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jfif";
-import CV from "../../assets/John-Cv.pdf";
+import CV from "../../assets/erdem-ay-cv.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -16,12 +16,12 @@ const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">
+          {/* <p className="about__description">
             I am a web/mobile developer.My objective is simply to be the best
             web/mobile developer that I can be and to contribute to the
             technology industry all that I know and can do.You can also check my
             GitHub repository.
-          </p>
+          </p> */}
 
           <a download="" href={CV} className="button button--flex">
             Download CV
