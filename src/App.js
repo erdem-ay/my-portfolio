@@ -11,7 +11,7 @@ import ScrollUp from "./components/scrollup/ScrollUp";
 function App() {
   return (
     <>
-      <Header />
+      <Header className="" />
       <main className="main">
         <Home />
         <About />
